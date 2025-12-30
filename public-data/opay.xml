@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- - phone number
+- name
+- balance
+- card
+  - card number
+  - expiry date
+  - type
+- user level
+- phone number -->
+
+<user-info>
+  <name>Princewill</name>
+  <balance>200000</balance>
+
+  <card>
+    <number>1234123456785678</number>
+    <expiry-month>12</expiry-month>
+    <expiry-year>25</expiry-year>
+    <type>Physical</type>
+  </card>
+
+  <level>10</level>
+  <phone>08018018001</phone>
+</user-info>
