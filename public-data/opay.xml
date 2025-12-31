@@ -11,16 +11,16 @@
 - phone number -->
 
 <user-info>
-  <name>Princewill</name>
-  <balance>3452</balance>
+  <name>Sandra</name>
+  <balance>990000</balance>
 
   <card>
     <number>1234123456785678</number>
-    <expiry-month>12</expiry-month>
-    <expiry-year>25</expiry-year>
-    <type>Physical</type>
+    <expiry-month>5</expiry-month>
+    <expiry-year>29</expiry-year>
+    <type>Virtual</type>
   </card>
 
-  <level>10</level>
-  <phone>08018018001</phone>
+  <level>3</level>
+  <phone>09090090091</phone>
 </user-info>
