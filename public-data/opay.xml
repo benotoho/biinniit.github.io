@@ -11,18 +11,18 @@
 - phone number -->
 
 <user-info>
-  <name>Sandra</name>
-  <balance>990000</balance>
+  <name>Bob</name>
+  <balance>55300</balance>
 
   <card>
-    <number>1234123456785678</number>
-    <expiry-month>5</expiry-month>
-    <expiry-year>29</expiry-year>
-    <name>BYERS SANDRA</name>
-    <type>Virtual</type>
-    <merchant>Mastercard</merchant>
+    <number>1234123456782219</number>
+    <expiry-month>8</expiry-month>
+    <expiry-year>27</expiry-year>
+    <name>ROBERT BROWN</name>
+    <type>Physical</type>
+    <merchant>Visa</merchant>
   </card>
 
-  <level>3</level>
+  <level>7</level>
   <phone>09090090091</phone>
 </user-info>
